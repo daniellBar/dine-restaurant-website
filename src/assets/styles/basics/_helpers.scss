@@ -1,0 +1,36 @@
+// flex helpers
+
+.flex {
+  display: flex;
+
+  > *.full {
+    flex: 1;
+  }
+  &.column {
+    flex-direction: column;
+  }
+  &.justify-center {
+    justify-content: center;
+  }
+  &.align-center {
+    align-items: center;
+  }
+  &.sb {
+    justify-content: space-between;
+  }
+  &.sa {
+    justify-content: space-around;
+  }
+  &.wrap {
+    flex-wrap: wrap;
+  }
+  &.no-wrap {
+    flex-wrap: nowrap;
+  }
+  &.end {
+    justify-self: flex-end;
+  }
+}
+
+
+
