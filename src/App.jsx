@@ -1,7 +1,7 @@
 import React from "react";
 import { Switch, Route } from 'react-router-dom';
 // import { Header } from './cmps/Header.jsx'
-import { Home } from './pages/Home.jsx'
+import { Home } from './pages/home.jsx'
 
 
 export function App() {
