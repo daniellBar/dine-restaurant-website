@@ -1,5 +1,7 @@
 # dine-restaurant-website
 
+React/SCSS project
+
 a pixel perfect challange for a resturant website based on the design in the following images.
 
 so far only the desktop version is ready
