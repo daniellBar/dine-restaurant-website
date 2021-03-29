@@ -1,0 +1,51 @@
+.introduction-container {
+    position: relative;
+    background-color: $clr4;
+    min-height: 1411px;
+
+    .curve-top-right {
+        top: 250px;
+    }
+    .curve-top-left {
+        bottom: 0;
+        right: 0;
+    }
+}
+
+.introduction {
+    height: 100%;
+    .introduction-inner-container {
+        position: relative;
+        height: 100%;
+        .pattern-lines {
+            right: -51px;
+            bottom: 282px;
+        }
+    }
+}
+
+.enjoyable-place-img {
+    position: absolute;
+    top: -70px;
+}
+
+.locally-sourced-img {
+    position: absolute;
+    bottom: -70px;
+    right: 0;
+}
+
+.enjoyable-place-info {
+    position: absolute;
+    top: 177px;
+    right: 0;
+}
+
+.locally-sourced-info {
+    position: absolute;
+    bottom: 167px;
+}
+
+.pattern-divide {
+    margin-bottom: 48px;
+}

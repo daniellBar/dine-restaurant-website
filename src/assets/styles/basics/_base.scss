@@ -3,15 +3,13 @@
 }
 
 html {
-    font-family: montserrat;
+    font-family: Spartan;
     line-height: 1.6;
-    color: $clr4;
 }
 
 body {
     font-size: rem(18px);
     margin: 0;
-    background-color: $clr2;
 }
 
 #root {
@@ -24,11 +22,6 @@ body {
     height: 100%;
 }
 
-main {
-    flex-grow: 1;
-    flex-shrink: 0;
-    flex-basis: 480px;
-}
 
 h1,h2,h3,h4,h5,h6 {
     margin: 0 0 0.6em;
@@ -44,7 +37,7 @@ p {
     max-width: 40ch;
 }
 
-.li,
+
 li {
     list-style: none outside none;
 }

@@ -1,0 +1,41 @@
+.highlight-preview {
+    display: flex;
+    width: 540px;
+    padding: 24px 0;
+}
+
+.highlight-preview-img {
+    position: relative;
+    .img-fit {
+        width: 128px;
+        height: 96px;
+        margin-right: 62px;
+        object-fit: contain;
+    }
+
+    .stick {
+        top: 18px;
+        left: 128px;
+        width: 32px;  
+    }
+}
+
+.highlight-preview-info {
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    height: 88px;
+
+    .highlight-title {
+        margin-bottom: 4px;
+    }
+
+    .highlight-description {
+        height: 56px;
+        font-size: 15px;
+        line-height: 28px;
+        letter-spacing: -0.1875px;
+        color: $clr2;
+        display: flex;
+    }
+}

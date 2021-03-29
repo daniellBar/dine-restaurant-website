@@ -1,0 +1,41 @@
+.highlights-container {
+    background-color: $clr1;
+    color: $clr2;
+    width: 100%;
+}
+
+.highlights {
+    display: flex;
+    justify-content: space-between;
+    padding: 200px 0 120px;
+    
+}
+
+.highlights-intro {
+    width: 445px;
+    height: 218px;
+    
+    .highlights-intro-title {
+        font-family: Spartan-bold;
+        font-size: 40px;
+        line-height: 140%;
+        letter-spacing: -0.5px;
+        margin-bottom: 16px;
+    }
+
+    .highlights-intro-text {
+        height: 90px;
+        font-size: 18px;
+        line-height: 167%;
+        letter-spacing: -0.225px;
+    }
+}
+
+.highlights-list {
+    .highlight-preview:not(:last-child) {
+        border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+    }
+    .highlight-preview:first-child{
+        padding-top: 0;
+    }
+}

@@ -1,0 +1,55 @@
+.slide-container {
+    position: relative;
+    background-color: $clr4;
+    min-height: 920px;
+    .curve-top-right {
+        top: 0;
+        width: 38%;
+    }
+}
+
+.slide {
+    padding: 160px 0;
+    .slide-inner-container {
+        position: relative;
+        height: 100%;
+        display: flex;
+        justify-content: space-between;
+        .pattern-lines {
+            top: -38px;
+            left: -40px;
+        }
+    }
+}
+
+.slide-content {
+    margin-top: 63px;
+    .book-a-table-btn {
+        margin-top: 32px;
+        margin-bottom: 78px;
+    }
+
+    .slides-navs {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 28px;
+        letter-spacing: 2px;
+        color: $clr7;
+        .nav {
+            position: relative;
+            opacity: 0.5;
+            cursor: pointer;
+            .stick {
+                left: -125px;
+                width: 95px;
+                bottom: 12px;
+            }
+            &.active {
+                opacity: 1;
+            }
+        }
+    }
+}

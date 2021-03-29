@@ -1,0 +1,63 @@
+.info-card {
+    width: 445px;
+    color: $clr6;
+    .title {
+        font-family: Spartan-bold;
+        font-size: 40px;
+        line-height: 140%;
+        letter-spacing: -0.5px;
+        margin-bottom: 16px;
+        width: 85%;
+    }
+    .text {
+        font-size: 18px;
+        line-height: 167%;
+        letter-spacing: -0.225px;
+    }
+}
+
+.pattern-lines {
+    position: absolute;
+    z-index: 5;
+}
+
+.curve-top-right,
+.curve-top-left {
+    width: 62%;
+    height: 320px;
+    position: absolute;
+    background-color: $clr5;
+    mix-blend-mode: normal;
+    opacity: 0.08;
+    border-radius: 100px 0px 0px 0px;
+}
+
+.curve-top-right {
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.book-a-table-btn {
+    width: 245px;
+    height: 64px;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 2px;
+    background-color: $clr1;
+    color: $clr2;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.stick {
+    position: absolute;
+    height: 1px;
+    background: $clr3;
+}
+
+.dine-logo {
+    height: 40px;
+    width: 103.42px;
+}
