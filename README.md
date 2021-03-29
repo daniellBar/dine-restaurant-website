@@ -4,7 +4,7 @@ React/SCSS project
 
 https://daniellbar.github.io/dine-restaurant-website/
 
-a resturant website based on the design in the following images.
+a restaurant website based on the design in the following images.
 
 so far only the desktop version is ready
 
