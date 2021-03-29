@@ -1,22 +1,36 @@
 {
   "files": {
-    "main.css": "/react_assignment/static/css/main.a8cbd622.chunk.css",
-    "main.js": "/react_assignment/static/js/main.73744a06.chunk.js",
-    "main.js.map": "/react_assignment/static/js/main.73744a06.chunk.js.map",
-    "runtime-main.js": "/react_assignment/static/js/runtime-main.15486b3d.js",
-    "runtime-main.js.map": "/react_assignment/static/js/runtime-main.15486b3d.js.map",
-    "static/js/2.1ba528b0.chunk.js": "/react_assignment/static/js/2.1ba528b0.chunk.js",
-    "static/js/2.1ba528b0.chunk.js.map": "/react_assignment/static/js/2.1ba528b0.chunk.js.map",
-    "static/js/3.885fcf6f.chunk.js": "/react_assignment/static/js/3.885fcf6f.chunk.js",
-    "static/js/3.885fcf6f.chunk.js.map": "/react_assignment/static/js/3.885fcf6f.chunk.js.map",
-    "index.html": "/react_assignment/index.html",
-    "static/css/main.a8cbd622.chunk.css.map": "/react_assignment/static/css/main.a8cbd622.chunk.css.map",
-    "static/js/2.1ba528b0.chunk.js.LICENSE.txt": "/react_assignment/static/js/2.1ba528b0.chunk.js.LICENSE.txt"
+    "main.css": "/dine-restaurant-website/static/css/main.2e7ea0e0.chunk.css",
+    "main.js": "/dine-restaurant-website/static/js/main.f7338395.chunk.js",
+    "main.js.map": "/dine-restaurant-website/static/js/main.f7338395.chunk.js.map",
+    "runtime-main.js": "/dine-restaurant-website/static/js/runtime-main.d22ee25b.js",
+    "runtime-main.js.map": "/dine-restaurant-website/static/js/runtime-main.d22ee25b.js.map",
+    "static/js/2.15469e77.chunk.js": "/dine-restaurant-website/static/js/2.15469e77.chunk.js",
+    "static/js/2.15469e77.chunk.js.map": "/dine-restaurant-website/static/js/2.15469e77.chunk.js.map",
+    "static/js/3.fe555dea.chunk.js": "/dine-restaurant-website/static/js/3.fe555dea.chunk.js",
+    "static/js/3.fe555dea.chunk.js.map": "/dine-restaurant-website/static/js/3.fe555dea.chunk.js.map",
+    "index.html": "/dine-restaurant-website/index.html",
+    "static/css/main.2e7ea0e0.chunk.css.map": "/dine-restaurant-website/static/css/main.2e7ea0e0.chunk.css.map",
+    "static/js/2.15469e77.chunk.js.LICENSE.txt": "/dine-restaurant-website/static/js/2.15469e77.chunk.js.LICENSE.txt",
+    "static/media/global.scss": "/dine-restaurant-website/static/media/Spartan-Regular.01633446.ttf",
+    "static/media/enjoyable-place-desktop.jpg": "/dine-restaurant-website/static/media/enjoyable-place-desktop.06399aa5.jpg",
+    "static/media/family-gathering-desktop.jpg": "/dine-restaurant-website/static/media/family-gathering-desktop.03b16029.jpg",
+    "static/media/footer-bg-desktop.jpg": "/dine-restaurant-website/static/media/footer-bg-desktop.7404dbad.jpg",
+    "static/media/hero-bg-desktop.jpg": "/dine-restaurant-website/static/media/hero-bg-desktop.7f6cbc13.jpg",
+    "static/media/locally-sourced-desktop.jpg": "/dine-restaurant-website/static/media/locally-sourced-desktop.957d3e79.jpg",
+    "static/media/logo.svg": "/dine-restaurant-website/static/media/logo.f6ae2c4c.svg",
+    "static/media/menu-item0.jpg": "/dine-restaurant-website/static/media/menu-item0.7bd94a87.jpg",
+    "static/media/menu-item1.jpg": "/dine-restaurant-website/static/media/menu-item1.81249e77.jpg",
+    "static/media/menu-item2.jpg": "/dine-restaurant-website/static/media/menu-item2.22eddbf1.jpg",
+    "static/media/pattern-divide.svg": "/dine-restaurant-website/static/media/pattern-divide.bf6d0c5c.svg",
+    "static/media/pattern-lines.svg": "/dine-restaurant-website/static/media/pattern-lines.df381b88.svg",
+    "static/media/social-events-desktop.jpg": "/dine-restaurant-website/static/media/social-events-desktop.98f270ef.jpg",
+    "static/media/special-events-desktop.jpg": "/dine-restaurant-website/static/media/special-events-desktop.4abb35fa.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.15486b3d.js",
-    "static/js/2.1ba528b0.chunk.js",
-    "static/css/main.a8cbd622.chunk.css",
-    "static/js/main.73744a06.chunk.js"
+    "static/js/runtime-main.d22ee25b.js",
+    "static/js/2.15469e77.chunk.js",
+    "static/css/main.2e7ea0e0.chunk.css",
+    "static/js/main.f7338395.chunk.js"
   ]
 }
